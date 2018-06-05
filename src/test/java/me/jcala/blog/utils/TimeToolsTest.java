@@ -1,6 +1,6 @@
 package me.jcala.blog.utils;
 
-import org.junit.Test;
+        import org.junit.Test;
 
 /**
  * Created by Administrator on 2016/9/17.
